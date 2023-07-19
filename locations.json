@@ -1,38 +1,27 @@
 [
 	{
-		"type": "Neighborhoods",
-		"title": "Alamo Sea",
-		"notes": "",
+		"type": "Territories",
+		"title": "BARDERO$",
+		"notes": "<Una de las pandillas mas repetadas y conocidas. Trabajan con los criminales mas conocidos y poderosos de los Santos.>",
+		"wiki_link": "https://gtahub.gg/topic/22059/topic?_=1689740593808",
 		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"strokecolor": "29014b",
+		"fillcolor": "29014b",
 		"latlngarray": [
-			{"lat": 52.761, "lng": -20.005},
-			{"lat": 52.761, "lng": 21.749},
-			{"lat": 51.976, "lng": 21.749},
-			{"lat": 51.976, "lng": 25.866},
-			{"lat": 52.754, "lng": 25.866},
-			{"lat": 52.754, "lng": 31.612},
-			{"lat": 56.536, "lng": 31.612},
-			{"lat": 56.536, "lng": 55.025},
-			{"lat": 43.085, "lng": 55.025},
-			{"lat": 43.085, "lng": 47.039},
-			{"lat": 46.905, "lng": 47.039},
-			{"lat": 46.905, "lng": 22.749},
-			{"lat": 37.939, "lng": 22.749},
-			{"lat": 37.939, "lng": -7.794},
-			{"lat": 43.567, "lng": -7.794},
-			{"lat": 43.567, "lng": -17.457},
-			{"lat": 38.699, "lng": -17.457},
-			{"lat": 38.699, "lng": -23.614},
-			{"lat": 52.788, "lng": -23.614},
-			{"lat": 52.788, "lng": -22.368},
-			{"lat": 52.285, "lng": -22.368},
-			{"lat": 52.285, "lng": -21.056},
-			{"lat": 50.361, "lng": -21.056},
-			{"lat": 50.361, "lng": -18.359},
-			{"lat": 52.285, "lng": -18.359},
-			{"lat": 52.285, "lng": -20.005}
+			{"lat": -74.942, "lng": -7.036},
+			{"lat": -74.284, "lng": -9.974},
+			{"lat": -73.650, "lng": -12.765},
+			{"lat": -73.155, "lng": -9.573},
+			{"lat": -73.336, "lng": -8.584},
+			{"lat": -73.626, "lng": -7.354},
+			{"lat": -74.059, "lng": -5.525},
+			{"lat": -74.222, "lng": -4.786}
+		],"images": [
+			{
+				"headline": "Toma de mercado 16/07/2023 by Bardero$",
+				"url": "https://imgur.com/VHiEpNB"
+			}
 		]
 	}
+	
 ]
