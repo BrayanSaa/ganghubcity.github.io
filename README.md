@@ -13,15 +13,7 @@ This interactive (Google) map shows you the location of current NoPixel territor
 
 Alternatively a new issue can be created the region data and it will be added.
 
-## How to host yourself
 
-1. Clone this repository
-2. Host the repository using Nginx, Apache, or another webserver.
-
-To host the repository using Python 3 use in the root of the repository:
-```
-python -m http.server
-```
 
 ## License
 
